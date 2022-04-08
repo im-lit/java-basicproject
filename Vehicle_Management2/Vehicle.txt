@@ -1,0 +1,5 @@
+Car,1,adventador,red,10.0,lambo,2000,sport,
+Car,2,audi i8,red,200.0,audi,2020,sport,
+Motorbike,3,V4s,red,150.0,ducati,299,true,
+Motorbike,4,S1000,blue,3000.0,Honda,299,false,
+Car,5,Ford,gray,5000.0,Ford,2022,Travel,
